@@ -24,7 +24,7 @@
 ```python
 class RanbirSingh:
     role       = "ERPNext Consultant & Frappe Developer"
-    based_in   = "Pune, India 🇮🇳"
+    based_in   = "Pune, India"
     experience = "8+ years"
     delivered  = "20+ ERPNext implementations"
     industries = ["Manufacturing", "EPC", "Retail / POS", "Multi-franchise",
@@ -47,9 +47,9 @@ class RanbirSingh:
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logo=frappe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frappe_Framework-0089FF?style=for-the-badge&logo=frappe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frappe_HRMS-171717?style=for-the-badge&logo=frappe&logoColor=white" />
+  <img src="https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frappe_Framework-0089FF?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frappe_HRMS-171717?style=for-the-badge" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_APIs-6DB33F?style=for-the-badge&logo=postman&logoColor=white" />
@@ -120,20 +120,11 @@ Customer, distributor and warranty portals built as standalone Frappe apps (v15 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=singhranbir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhranbir&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=singhranbir&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhranbir&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=singhranbir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
 </p>
 
 ---
